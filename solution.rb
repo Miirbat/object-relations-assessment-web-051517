@@ -64,9 +64,6 @@ class Review
   end
 
   def restaurant
-    # @@all.find { |i|
-    # if i.restaurant == review.restaurant
-    #   i.restaurant }
     self.restaurant
   end
 
